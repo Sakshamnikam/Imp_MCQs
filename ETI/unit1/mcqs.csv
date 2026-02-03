@@ -1,0 +1,221 @@
+id,question,optionA,optionB,optionC,optionD,answer
+1,What is the main goal of Artificial Intelligence?,To increase internet speed,To simulate human intelligence in machines,To store large data,To design hardware,B
+2,What does AI stand for?,Automated Intelligence,Artificial Information,Artificial Intelligence,Advanced Internet,C
+3,Artificial Intelligence mainly deals with machines that can:,Only calculate,Only store data,Think and learn like humans,Print documents,C
+4,Machine Learning is a subset of:,Data Science,Artificial Intelligence,Deep Learning,Cloud Computing,B
+5,"In Machine Learning, a system learns from:",Hard-coded rules,Data,Instructions only,Output devices,B
+6,Which type of learning uses labeled data?,Unsupervised Learning,Reinforcement Learning,Supervised Learning,Deep Learning,C
+7,Which type of learning works with unlabeled data?,Supervised Learning,Unsupervised Learning,Reinforcement Learning,Semi-supervised Learning,B
+8,Reward and penalty concept is used in:,Supervised Learning,Unsupervised Learning,Reinforcement Learning,Deep Learning,C
+9,Email spam detection is an example of:,Unsupervised Learning,Reinforcement Learning,Supervised Learning,Computer Vision,C
+10,Deep Learning is based on:,Databases,Expert Systems,Neural Networks,Operating Systems,C
+11,Neural Networks are inspired by the:,Computer architecture,Internet,Human brain,Operating system,C
+12,The basic unit of a neural network is called:,Register,Node (Neuron),Gate,Block,B
+13,Which layer of neural network receives raw data?,Output layer,Hidden layer,Input layer,Processing layer,C
+14,Which layer produces the final result in a neural network?,Input layer,Hidden layer,Output layer,Training layer,C
+15,Backpropagation is used to:,Increase data size,Reduce error,Store output,Generate noise,B
+16,NLP stands for:,Neural Learning Process,Network Layer Protocol,Natural Language Processing,New Language Program,C
+17,NLP is mainly used for:,Image processing,Understanding human language,Hardware control,Database management,B
+18,Chatbots mainly use which AI concept?,Computer Vision,Robotics,Natural Language Processing,Blockchain,C
+19,Face recognition technology comes under:,NLP,Robotics,Computer Vision,Expert System,C
+20,Computer Vision is used to process:,Text,Images and videos,Numbers only,Sound,B
+21,An Expert System is mainly based on:,Neural networks,Knowledge base and rules,Sensors,Internet,B
+22,Medical diagnosis software is an example of:,Robotics,NLP,Expert System,Compiler,C
+23,Narrow AI is also known as:,Strong AI,Weak AI,Super AI,Self-Aware AI,B
+24,Siri and Alexa are examples of:,Artificial General Intelligence,Artificial Super Intelligence,Narrow AI,Self-Aware AI,C
+25,AGI refers to AI with:,Limited intelligence,Human-level intelligence,No intelligence,Only calculation ability,B
+26,ASI means AI that is:,Less intelligent than humans,Equal to humans,More intelligent than humans,Rule-based,C
+27,Reactive Machines AI:,Uses past data,Has memory,Reacts only to present situations,Understands emotions,C
+28,Self-driving cars are an example of:,Reactive AI,Limited Memory AI,Theory of Mind AI,Self-Aware AI,B
+29,Theory of Mind AI focuses on:,Calculations,Emotions and intentions,Data storage,Sorting data,B
+30,Self-Aware AI is currently:,Commonly used,Under testing,Hypothetical,Commercial,C
+31,Which learning type uses both labeled and unlabeled data?,Supervised,Unsupervised,Reinforcement,Semi-supervised,D
+32,AlphaGo is an example of:,Supervised Learning,Unsupervised Learning,Reinforcement Learning,Semi-supervised Learning,C
+33,Deep Learning performs best on:,Small datasets,Structured data only,Large and unstructured data,Numerical data only,C
+34,Which of the following is NOT an AI application?,Virtual Assistant,Medical diagnosis,Manual typing,Recommendation system,C
+35,Recommendation systems are widely used in:,Banking only,Entertainment platforms,Operating systems,Compilers,B
+36,Which sector widely uses AI for fraud detection?,Education,Agriculture,Finance,Sports,C
+37,AI used in agriculture helps in:,Gaming,Crop monitoring,Printing,Networking,B
+38,Which of the following is an AI career role?,Data Scientist,Electrician,Plumber,Mechanic,A
+39,Deep Learning automatically performs:,Manual coding,Feature extraction,Data deletion,Formatting,B
+40,Which AI field deals with robots?,NLP,Computer Vision,Robotics,Data Mining,C
+41,Which is the correct hierarchy?,DL → ML → AI,AI → ML → DL,ML → AI → DL,AI → DL → ML,B
+42,Which of the following is NOT a type of Machine Learning?,Supervised,Unsupervised,Reinforcement,Reactive,D
+43,Training data is mainly used to:,Test hardware,Improve model performance,Format output,Reduce storage,B
+44,Which AI technology is used in Google Translate?,Robotics,NLP,Expert System,Compiler,B
+45,Which AI component helps machines to “see”?,NLP,Computer Vision,Reinforcement Learning,Expert System,B
+46,AI that can learn and improve with experience is called:,Static AI,Intelligent AI,Learning AI,Rule-based AI,C
+47,Which learning method improves by interaction with environment?,Supervised,Unsupervised,Reinforcement,Semi-supervised,C
+48,Which AI system uses IF-THEN rules?,Neural Network,Expert System,Deep Learning,NLP,B
+49,Which AI concept focuses on decision making?,ML,DL,AI,All of the above,D
+50,AI applications mainly aim to:,Increase manual work,Reduce efficiency,Automate intelligent tasks,Replace computers,C
+51,Machine Learning allows systems to learn without being:,Updated,Explicitly programmed,Connected to internet,Supervised by humans,B
+52,Which ML type predicts output using labeled data?,Unsupervised Learning,Reinforcement Learning,Supervised Learning,Deep Learning,C
+53,Clustering is a technique of:,Supervised Learning,Unsupervised Learning,Reinforcement Learning,Deep Learning,B
+54,Which ML type is based on trial and error?,Supervised,Unsupervised,Reinforcement,Semi-supervised,C
+55,Semi-supervised learning uses:,Only labeled data,Only unlabeled data,Both labeled and unlabeled data,Random data,C
+56,Predicting house prices is an example of:,Classification,Regression,Clustering,Reinforcement,B
+57,Spam detection is an example of:,Regression,Classification,Clustering,Optimization,B
+58,ML models improve performance by:,Rewriting code,Increasing hardware,Learning from data,Deleting errors,C
+59,Which is NOT a type of Machine Learning?,Supervised,Unsupervised,Reinforcement,Reactive,D
+60,Which ML task groups similar data together?,Classification,Regression,Clustering,Prediction,C
+61,Deep Learning is a subset of:,AI,ML,Data Mining,IoT,B
+62,Why is it called “Deep” Learning?,Uses large memory,Uses many hidden layers,Uses deep data,Uses internet,B
+63,Deep Learning is best suited for:,Small datasets,Rule-based systems,Unstructured data,Manual systems,C
+64,Which hardware is commonly used for deep learning?,CPU only,GPU,Printer,Scanner,B
+65,Face recognition in mobiles uses:,Expert Systems,NLP,Deep Learning,Compiler,C
+66,Speech recognition mainly uses:,Computer Vision,NLP,Deep Learning,All of the above,D
+67,Deep Learning automatically performs:,Manual programming,Feature extraction,Data entry,Data cleaning,B
+68,Which is a Deep Learning application?,Self-driving cars,Manual billing,File compression,Typing,A
+69,Deep Learning models require:,Less data,Large data,No data,Random data,B
+70,Which algorithm is used to update weights?,Sorting,Backpropagation,Encryption,Compilation,B
+71,Neural Network consists of:,Registers,Neurons,Transistors,Gates,B
+72,Which layer processes data in neural network?,Input layer,Hidden layer,Output layer,Storage layer,B
+73,Activation function is used to:,Store data,Add non-linearity,Encrypt data,Compress data,B
+74,Loss function is used to:,Measure error,Store output,Increase speed,Reduce memory,A
+75,Gradient Descent is used for:,Data collection,Optimization,Encryption,Debugging,B
+76,Forward propagation is the process of:,Updating weights,Passing data from input to output,Calculating loss,Reducing noise,B
+77,Backward propagation is used to:,Increase error,Update weights,Store data,Test model,B
+78,Neural networks are mainly used for:,Data storage,Pattern recognition,File management,Networking,B
+79,Handwriting recognition uses:,NLP,Neural Networks,Blockchain,OS,B
+80,Neural networks form the base of:,ML,AI,Deep Learning,IoT,C
+81,Which is the broadest concept?,ML,DL,AI,Neural Network,C
+82,Which requires human-designed rules?,AI,ML,DL,None,A
+83,Which learns features automatically?,AI,ML,DL,Expert System,C
+84,Which is best for image recognition?,AI,ML,DL,Rule-based system,C
+85,ML depends mainly on:,Hardware,Data,Internet,Sensors,B
+86,AI in healthcare helps in:,Disease diagnosis,Manual testing,Printing reports,Typing data,A
+87,Fraud detection is widely used in:,Education,Finance,Agriculture,Sports,B
+88,Recommendation systems are used by:,Netflix,Amazon,YouTube,All of the above,D
+89,AI in education helps in:,Personalized learning,Manual checking,Printing notes,Filing,A
+90,AI in transportation includes:,Manual driving,Autonomous vehicles,Paper tickets,Timetables,B
+91,Weak AI is also called:,Narrow AI,Strong AI,Super AI,Self-Aware AI,A
+92,Strong AI refers to:,Limited task AI,Human-level intelligence,Calculator,Automation,B
+93,Which AI type has no memory?,Limited Memory AI,Reactive Machine,Theory of Mind,Self-Aware AI,B
+94,Chatbots mostly belong to:,Reactive AI,Limited Memory AI,Self-Aware AI,ASI,B
+95,Theory of Mind AI focuses on:,Storage,Emotions & intentions,Speed,Security,B
+96,Self-Aware AI is:,Common today,Under use,Hypothetical,Industrial,C
+97,Which AI category uses past experience?,Reactive,Limited Memory,Narrow,Super AI,B
+98,AlphaGo belongs to:,Narrow AI,AGI,ASI,Self-Aware AI,A
+99,Which AI type can outperform humans?,Narrow AI,AGI,ASI,Limited Memory,C
+100,Current real-world AI systems are mostly:,ASI,AGI,Narrow AI,Self-Aware AI,C
+101,Generative AI mainly focuses on:,Data storage,Data analysis,Creating new content,Network security,C
+102,Which of the following is an example of Generative AI?,Calculator,Antivirus,ChatGPT,Firewall,C
+103,Generative AI generates content such as:,Text only,Images only,Audio only,"Text, images, audio, video",D
+104,Generative AI mainly uses which technology?,Databases,Deep Learning,Computer Networks,Operating Systems,B
+105,Which model is widely used in Generative AI?,Decision Tree,Transformer,Compiler,Assembler,B
+106,Transformer models were introduced in:,2010,2015,2017,2020,C
+107,The core mechanism of transformers is:,Looping,Self-attention,Recursion,Sorting,B
+108,Self-attention helps the model to:,Ignore context,Understand word relationships,Reduce data,Encrypt data,B
+109,Positional encoding is used to:,Increase memory,Add word order information,Reduce error,Compress data,B
+110,Multi-head attention allows:,Faster storage,Parallel attention mechanisms,Data encryption,Hardware acceleration,B
+111,LLM stands for:,Logical Learning Model,Large Language Model,Linear Learning Machine,Local Language Module,B
+112,LLMs are trained on:,Small datasets,Only numbers,Large text datasets,Images only,C
+113,LLMs mainly work on:,Computer Vision,Natural Language Processing,Robotics,Networking,B
+114,ChatGPT is powered by:,Rule-based AI,Expert System,Large Language Model,Compiler,C
+115,LLMs predict:,First word,Random word,Next word in a sequence,Last word,C
+116,SLM stands for:,Small Language Model,Simple Learning Machine,Software Logic Model,Smart Learning Module,A
+117,SLMs are mainly designed to be:,Large and slow,Resource-efficient,Cloud-only,Very complex,B
+118,SLMs are suitable for:,Supercomputers only,Mobile and edge devices,Mainframes only,Servers only,B
+119,One advantage of SLMs is:,High cost,Slow inference,Faster response,High memory usage,C
+120,SLMs are best used for:,General purpose tasks,Domain-specific tasks,Manual work,Hardware design,B
+121,Agentic AI refers to AI systems that are:,Rule-based,Autonomous and goal-oriented,Manual,Static,B
+122,Agentic AI can:,Only respond to prompts,Plan and execute tasks,Only store data,Only calculate,B
+123,Agentic AI differs from traditional AI because it is:,Slower,Proactive,Less intelligent,Hardware-based,B
+124,Which is an example of Agentic AI use case?,Calculator,AI recruiter,Printer,Scanner,B
+125,Agentic AI systems can use:,Only one tool,No tools,Multiple tools,Hardware only,C
+126,AI reasoning models focus on:,Guessing answers,Step-by-step problem solving,Data storage,Encryption,B
+127,Chain of Thought refers to:,Data cleaning,Step-by-step reasoning,Model testing,Memory allocation,B
+128,Reasoning models are especially useful for:,Printing,Simple tasks,Complex problem solving,File management,C
+129,Which task benefits most from reasoning models?,Typing,Mathematical problem solving,File copying,Data entry,B
+130,Reasoning models usually take:,Less time,No time,More computation time,Zero resources,C
+131,AI improves digital security by:,Slowing attacks,Manual monitoring,Real-time threat detection,Disabling systems,C
+132,AI can detect cyber threats by identifying:,Random data,Normal patterns only,Anomalous behavior,Hardware faults,C
+133,Zero-day attacks are:,Known attacks,Already patched,Unknown vulnerabilities,Physical attacks,C
+134,AI-based security systems adapt by:,Manual updates,Learning from new data,Restarting systems,Formatting disks,B
+135,Which area uses AI for malware detection?,Networking only,Cybersecurity,Graphics,Printing,B
+136,Adversarial attacks target:,Hardware,AI model inputs,Databases,Operating systems,B
+137,Poisoning attacks occur during:,Deployment,Training phase,Execution phase,Testing phase,B
+138,Model tampering means:,Improving model,Modifying model parameters,Training model,Testing model,B
+139,Privacy attacks aim to:,Shut down AI,Steal training data information,Improve accuracy,Optimize performance,B
+140,Deepfakes are created using:,Manual editing,Traditional programming,Generative AI,Databases,C
+141,MFA stands for:,Multi-Factor Authentication,Multiple File Access,Machine Feature Analysis,Model Failure Alert,A
+142,MFA improves security by:,Removing passwords,Adding extra verification,Reducing encryption,Disabling login,B
+143,Strong passwords should be:,Short,Reused,Long and random,Easy to guess,C
+144,Regular software updates help to:,Slow system,Patch vulnerabilities,Delete data,Reduce memory,B
+145,Zero Trust security model assumes:,Everyone is trusted,No verification needed,"Never trust, always verify",Only internal users are safe,C
+146,AI-driven phishing mainly uses:,Manual emails,Generic messages,Personalized content,Hardware attacks,C
+147,AI-generated fake videos are called:,Spam,Malware,Deepfakes,Trojans,C
+148,AI security systems are better because they are:,Static,Slow,Adaptive,Manual,C
+149,Which AI feature helps detect unusual login behavior?,Rule-based logic,Anomaly detection,Sorting,Compilation,B
+150,AI in cybersecurity mainly reduces:,Productivity,Automation,Response time to attacks,Network speed,C
+151,Vibe coding mainly focuses on:,Writing code line by line,Conversational code generation,Manual debugging,Hardware programming,B
+152,"In vibe coding, the AI acts as a:",Compiler,Co-pilot,Server,Database,B
+153,Vibe coding reduces focus on:,Logic,Architecture,Syntax details,Creativity,C
+154,Which tool is popular for vibe coding?,Notepad,Cursor,MS Word,Paint,B
+155,Vibe coding makes software development:,Slower,More accessible,Hardware dependent,Complex,B
+156,Agentic AI systems are designed to be:,Static,Fully manual,Autonomous,Rule-only,C
+157,Which capability differentiates Agentic AI from Generative AI?,Text generation,Image creation,Multi-step planning,Data storage,C
+158,Agentic AI can coordinate with:,Humans only,Other AI agents,Databases only,Hardware only,B
+159,Multi-agent collaboration means:,One AI works alone,Many agents work together,Human-only teamwork,Manual task sharing,B
+160,Which is NOT a feature of Agentic AI?,Goal-oriented behavior,Autonomy,Proactivity,Static response,D
+161,AI recruiter systems are used to:,Hire manually,Screen resumes,Print applications,Store files,B
+162,AI report generation agents collect data from:,Single source,Multiple sources,Random sources,Offline files only,B
+163,Which business function uses AI chatbots most?,Manufacturing,Customer support,Packaging,Maintenance,B
+164,AI in supply chain helps in:,Route optimization,Manual delivery,Paper documentation,Billing only,A
+165,Predictive maintenance uses AI to:,Repair manually,Predict equipment failure,Increase downtime,Delete logs,B
+166,AI tutors provide:,Same content to all,Personalized learning,Manual teaching,Printed notes,B
+167,Automated grading systems use AI to:,Reduce speed,Increase bias,Evaluate answers,Print results,C
+168,AI in medical imaging helps to:,Store images,Detect diseases,Print reports,Share files,B
+169,Drug discovery using AI focuses on:,Manual trials,Predicting molecule interactions,Printing formulas,Hardware testing,B
+170,Personalized medicine uses AI to:,Treat all patients same,Customize treatments,Reduce data,Increase paperwork,B
+171,AI-powered robots can:,Only repeat tasks,Sense and decide,Only store data,Only move randomly,B
+172,Autonomous vehicles depend heavily on:,Manual input,AI and ML,Paper maps,Static rules,B
+173,Sensor fusion is used to:,Remove sensors,Combine sensor data,Print sensor output,Encrypt data,B
+174,Drones using AI are used for:,Gaming only,Navigation and rescue,Printing,Typing,B
+175,Reinforcement learning is commonly used in:,Text editing,Robotics,File storage,Data entry,B
+176,Transformer architecture includes:,Self-attention,Sorting algorithms,Registers,Hardware logic,A
+177,Encoder in transformer is used to:,Generate output,Process input sequence,Encrypt data,Store memory,B
+178,Decoder in transformer is used to:,Ignore input,Generate output sequence,Store data,Train model,B
+179,Masked self-attention is used to:,Hide past tokens,Prevent seeing future tokens,Increase memory,Reduce computation,B
+180,Positional encoding helps transformers to:,Learn word order,Reduce data size,Increase speed,Remove noise,A
+181,Evasion attacks try to:,Improve model,Fool AI model at inference time,Train model better,Secure data,B
+182,Which attack modifies training data?,Evasion,Poisoning,Phishing,DDoS,B
+183,Extracting model information using queries is called:,Model inference,Privacy attack,Model training,Encryption,B
+184,AI-generated spam mainly increases:,Accuracy,Security,Attack effectiveness,System speed,C
+185,Deepfake attacks are dangerous because they:,Are slow,Look unrealistic,Appear very realistic,Use hardware only,C
+186,Password managers help by:,Reusing passwords,Generating strong passwords,Removing passwords,Sharing passwords,B
+187,Zero Trust security assumes:,Internal users are safe,No user is trusted by default,External users are blocked,Only admins are trusted,B
+188,Regular security patches mainly:,Increase risk,Fix vulnerabilities,Delete software,Slow systems,B
+189,Secure networks should use:,Open access,Single firewall only,Multi-layer security,No authentication,C
+190,Mobile security best practice includes:,Ignoring updates,Using MFA,Sharing passwords,Disabling lock,B
+191,Which AI feature allows adaptation over time?,Static rules,Learning capability,Manual control,Fixed logic,B
+192,AI systems outperform humans mainly in:,Emotional intelligence,Large-scale data processing,Ethics,Creativity only,B
+193,The biggest strength of ML is its ability to:,Store data,Learn patterns,Print output,Encrypt files,B
+194,Deep Learning requires large datasets because:,Models are shallow,Many parameters need training,Data is free,Rules are simple,B
+195,Which AI concept combines perception and action?,NLP,Robotics,Expert System,Database,B
+196,Which AI type is currently fictional?,Narrow AI,Limited Memory AI,Self-Aware AI,Supervised AI,C
+197,Which technology is essential for Generative AI text models?,Blockchain,Transformers,Routers,Compilers,B
+198,AI-powered anomaly detection is used in:,File systems,Cybersecurity,Printing,Editing,B
+199,Which factor most improves AI accuracy?,Random data,Quality training data,Hardware color,Screen size,B
+200,AI & ML mainly aim to:,Replace all humans,Assist and augment humans,Remove decision making,Eliminate jobs,B
+201,AI systems mainly aim to improve:,Manual work,Decision-making efficiency,Paper usage,Hardware size,B
+202,Which of the following best defines Machine Learning?,Programming computers manually,Computers learning from experience,Writing algorithms only,Storing data,B
+203,Deep Learning differs from ML because it uses:,Fewer layers,Rule-based logic,Multi-layer neural networks,Manual features,C
+204,Which AI technology helps machines understand speech?,Computer Vision,NLP,Robotics,Expert System,B
+205,AI recommendation engines mainly use:,Random logic,User behavior data,Hardware rules,Manual sorting,B
+206,AI ethics mainly deals with:,Hardware safety,Responsible use of AI,Coding speed,Network bandwidth,B
+207,Bias in AI models usually comes from:,Processors,Training data,Internet speed,Programming language,B
+208,Which approach helps reduce AI bias?,Using random data,Using diverse datasets,Ignoring data,Reducing training,B
+209,AI transparency means:,Hiding algorithms,Explaining AI decisions,Encrypting output,Faster execution,B
+210,AI systems should be designed to be:,Unsafe,Unaccountable,Fair and reliable,Secretive,C
+211,AI is creating new job roles such as:,Typist,AI Engineer,Clerk,Operator,B
+212,Which skill is most important for AI careers?,Memorization,Data understanding,Typing speed,Printing,B
+213,AI future growth is expected mainly due to:,Reduced data,Increased data and computing power,Manual work,Paper documentation,B
+214,Which sector will NOT benefit from AI?,Healthcare,Agriculture,Education,None of the above,D
+215,AI systems continuously improve through:,Manual changes,Learning mechanisms,Hardware replacement,File deletion,B
+216,Which statement is TRUE about AI today?,AI has human-like emotions,AI can think independently like humans,AI performs specific intelligent tasks,AI is fully self-aware,C
+217,Most real-world AI applications belong to:,ASI,AGI,Narrow AI,Self-Aware AI,C
+218,Which AI technology is key behind ChatGPT?,Blockchain,Large Language Models,Cloud Storage,Databases,B
+219,AI combined with ML improves systems by making them:,Static,Adaptive,Manual,Fixed,B
+220,The biggest advantage of AI is its ability to:,Replace humans completely,Automate intelligent tasks,Remove jobs,Stop decision making,B
